@@ -1,0 +1,62 @@
+#root {
+  background-color: white;
+  width: 100%;
+}
+
+body {
+  display: block;
+}
+
+.App {
+  background-color: #404fed;
+  width: 60%;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-transform: uppercase;
+  padding-left: 10px;
+  font-size: 50px;
+  font-weight: 700;
+}
+
+p {
+  padding-left: 10px;
+  font-size: 20px;
+  text-align: left;
+}
+
+.images {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  margin-left: 15px;
+}
+
+.download {
+  border-radius: 20px;
+  margin: 5px;
+  display: block;
+  background-color: white;
+  color: black;
+}
+.open {
+  border-radius: 20px;
+  margin: 5px;
+}
+
+.discord-logo {
+  width: 150px;
+  
+}
+
+.menu-icon {
+  width: 50px;
+}
+
+.background-image {
+  display: block;
+  margin-left: auto;
+}
+
